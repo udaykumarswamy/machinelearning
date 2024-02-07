@@ -1,6 +1,6 @@
 
 # machinelearning
-This repo is for machinelearning learning and have covered all the most basic to advanced concepts.
+This repo is for machinelearning, have covered all the most basic to advanced concepts.
 
 ## Repo description
 This repo is for the sole purpose of understanding complex machine learning concepts step by step,
