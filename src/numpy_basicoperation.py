@@ -224,3 +224,5 @@ print('standard diviation:',std)
 mean = a.mean()
 print('mean of the array:', mean)
 
+
+
