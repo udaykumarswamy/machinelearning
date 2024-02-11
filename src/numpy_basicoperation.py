@@ -189,8 +189,8 @@ print(c)
 '''
 for this operation we should have the col of first array 
 identical to row of second array
-assume a(3,5) b should be b(5,3)
-the result will be res()
+assume a(5,4) b should be b(4,5)
+the result will be res(5,5)
 '''
 a  = a.reshape(5,4)
 c= a@b
