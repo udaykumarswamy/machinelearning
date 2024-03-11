@@ -1,2 +1,4 @@
 #visual studio code
 ./vscode
+#ignore jupiter notebook tracks
+.ipynb_checkpoints
